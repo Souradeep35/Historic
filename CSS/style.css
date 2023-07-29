@@ -1,0 +1,184 @@
+.container {
+background: linear-gradient(to right, green, white, orange);
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+    font-family: 'Brush Script MT', cursive;
+
+    color: rgb(58, 58, 190);
+  text-align: center;
+}
+
+.place {
+background: lavender;
+width: 100%;
+border: 2px solid rgb(239, 155, 155);
+box-shadow: 5px 5px 6px LightBlue;
+margin-bottom: 20px;
+
+}
+
+.place2 {
+background: MistyRose ;
+width: 100%;
+border: 2px solid rgb(239, 155, 155);
+box-shadow: 5px 5px 6px LightBlue;
+margin-bottom: 20px;
+
+}
+
+.place3 {
+ background: lavender;
+width: 100%;
+border: 2px solid rgb(239, 155, 155);
+box-shadow: 5px 5px 6px LightBlue;
+margin-bottom: 20px;}
+
+.place4 {
+background: MistyRose ;
+width: 100%;
+border: 2px solid rgb(239, 155, 155);
+box-shadow: 5px 5px 6px LightBlue;
+margin-bottom: 20px;
+
+}
+
+.place5 {
+background: lavender;
+width: 100%;
+border: 2px solid rgb(239, 155, 155);
+box-shadow: 5px 5px 6px LightBlue;
+margin-bottom: 20px;
+
+}
+
+.place6 {
+background: MistyRose ;
+width: 100%;
+border: 2px solid rgb(239, 155, 155);
+box-shadow: 5px 5px 6px LightBlue;
+margin-bottom: 20px;
+
+}
+
+.place7 {
+ background: lavender;
+width: 100%;
+border: 2px solid rgb(239, 155, 155);
+box-shadow: 5px 5px 6px LightBlue;
+margin-bottom: 20px;}
+
+.place8 {
+background: MistyRose ;
+width: 100%;
+border: 2px solid rgb(239, 155, 155);
+box-shadow: 5px 5px 6px LightBlue;
+margin-bottom: 20px;
+
+}
+
+img {
+  width: 50%;
+  height: auto;
+}
+
+h2 {
+  font-family: 'Brush Script MT', cursive;
+  font-size: xx-large;
+  font-weight: bold;
+    color: rgb(4, 0, 15);
+  text-align: center;
+
+  margin: 10px 0;
+}
+
+p {
+  font-family: 'Brush Script MT', cursive;
+  text-align: justify;
+}
+a {
+    font-family: 'Brush Script MT', cursive;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-weight: bold;
+  cursor: pointer;
+
+}
+.box {
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+background: linear-gradient(to right, rgb(154, 154, 221), white, lavender);
+}
+.box2 {
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+background: linear-gradient(to right, rgb(154, 154, 221), white, MistyRose);
+}
+
+audio {
+  display: block;
+  margin: 0 auto;
+}
+audio::-webkit-media-controls-panel{
+    background-color: cornflowerblue;
+}
+audio::-webkit-media-controls-play-button{
+    background-color: lightblue;
+    border-radius: 50%;
+}
+audio::-webkit-media-controls-current-time-display{
+    color: #333;
+}
+audio::-webkit-media-controls-time-remaining-display{
+    color: #333;
+}
+audio::-webkit-media-controls-timeline{
+    border-radius: 40px;
+    background-color: lightblue;
+}
+audio::-webkit-media-controls-volume-slider{
+    background-color: lightblue;
+    border-radius: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+audio::-webkit-media-controls-mute-button{
+    background-color: lightblue;
+    border-radius: 50%;
+}
+
+#centered-heading {
+  text-align: center;
+  font-family: 'Brush Script MT', cursive;
+    color: rgb(58, 58, 190);
+}
+
+.container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:auto;
+}
+
+.heading {
+    width: 600px;
+  border-radius: 20px;
+    color: rgb(4, 0, 15);
+text-align: center;
+  background: linear-gradient(to right, blue, lightblue,white);
+}
+h3 {
+    font-family: 'Brush Script MT', cursive;
+    color: black;
+    text-align: center;
+}
+.credits {
+    color: black;
+    text-align: right;
+}
